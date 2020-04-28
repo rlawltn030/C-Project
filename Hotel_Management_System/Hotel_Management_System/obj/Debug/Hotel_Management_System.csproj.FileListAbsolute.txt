@@ -1,0 +1,14 @@
+C:\Users\JiSoo\source\repos\Hotel_Management_System\Hotel_Management_System\bin\Debug\Hotel_Management_System.exe.config
+C:\Users\JiSoo\source\repos\Hotel_Management_System\Hotel_Management_System\bin\Debug\Hotel_Management_System.exe
+C:\Users\JiSoo\source\repos\Hotel_Management_System\Hotel_Management_System\bin\Debug\Hotel_Management_System.pdb
+C:\Users\JiSoo\source\repos\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.csprojAssemblyReference.cache
+C:\Users\JiSoo\source\repos\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.LoginForm.resources
+C:\Users\JiSoo\source\repos\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.Properties.Resources.resources
+C:\Users\JiSoo\source\repos\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.csproj.GenerateResource.cache
+C:\Users\JiSoo\source\repos\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\JiSoo\source\repos\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.exe
+C:\Users\JiSoo\source\repos\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.pdb
+C:\Users\JiSoo\source\repos\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.MainForm.resources
+C:\Users\JiSoo\source\repos\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.ManageClientsForm.resources
+C:\Users\JiSoo\source\repos\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.ManageReservationForm.resources
+C:\Users\JiSoo\source\repos\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.ManageRoomsForm.resources
